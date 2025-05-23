@@ -1,3 +1,9 @@
+## 📊 Interactive Dashboard Preview
+
+The visual dashboard below presents key insights from the direct marketing campaign analysis:
+
+![Dashboard Snapshot](bank-dashboard.png)
+
 # Direct Marketing Campaign Analysis
 
 This is my Stage #3 data analysis project for the InternPulse program.
