@@ -1,22 +1,87 @@
-# Direct Marketing Campaign Analysis
+# 📈 Direct Marketing Campaign Analysis – Data Analytics Project
 
-This is my Stage #3 data analysis project for the InternPulse program.
+## Overview
 
-## Project Description
-The project analyzes a dataset from a Portuguese banking institution’s direct marketing campaign. The aim is to uncover patterns and provide strategic recommendations based on customer responses to phone call campaigns.
+This project is a comprehensive data analysis task aimed at uncovering actionable insights from a **direct marketing campaign** conducted by a Portuguese banking institution. The campaign involved outreach via phone calls to promote term deposit subscriptions.
 
-## Deliverables
-- 📊 **Excel File** – Contains cleaned dataset, pivot tables, and an interactive dashboard  
-- 📝 **Project Report** – Summarizes methodology, key insights, and recommendations  
+I applied my Excel data analysis skills to clean, explore, and visualize the data, ultimately building an **interactive Excel dashboard** for stakeholder use.
 
-## Summary of Insights
-- Middle-aged clients with tertiary education and high balance are most likely to subscribe
-- Cellular contact method yields better results
-- Campaigns in May and August are most effective
+---
 
-## Tools Used
-- Microsoft Excel
+## 🧩 Project Objectives
 
-## Author
+- Perform **exploratory data analysis (EDA)** to discover meaningful trends and patterns
+- Develop an **interactive dashboard** for data-driven decision-making
+- Present clear **business recommendations** to improve future marketing efforts
+
+---
+
+## 📊 Dashboard Snapshot
+
+Here’s a preview of the final dashboard summarizing subscription patterns by contact method, month, age bracket, education level, and more:
+
+![Dashboard Snapshot](bank-dashboard.png)
+
+---
+
+## ⚙️ Methodology
+
+1. **Data Cleaning:**
+   - Separated delimited columns
+   - Removed duplicates and blank rows
+   - Handled missing or “unknown” values
+   - Created new derived columns such as **Age Bracket**
+
+2. **Exploratory Data Analysis (EDA):**
+   - Analyzed subscription outcomes (`y`) against demographics and campaign strategies
+   - Grouped and categorized data using pivot tables
+   - Created slicers for better dashboard interactivity
+
+3. **Dashboard Design:**
+   - Developed 6 pivot charts covering:
+     - % of Total Subscription
+     - Subscription Rate Per Month
+     - Average Balance of Subscribers
+     - Subscription Per Contact
+     - Age Bracket Per Subscription
+     - Education Rate Per Subscription
+
+---
+
+## 🔍 Key Insights
+
+- **Contact Method:** Cellphone was the most effective communication channel.
+- **Timing:** Subscription success peaked around **May and August**.
+- **Balance Influence:** Higher account balance correlated with greater subscription rates.
+- **Education & Employment:** Customers in management or tertiary education were more likely to subscribe.
+- **Age Bracket:** Middle-aged clients subscribed the most.
+
+---
+
+## 📌 Recommendations
+
+- Focus future campaigns around **cellular contact** and **peak months (May/August)**
+- Prioritize leads with **higher balances** and **tertiary education**
+- Design messages tailored to **middle-aged professionals**
+- Consider further A/B testing to refine optimal campaign durations and frequency
+
+---
+
+## 📁 Files in this Repository
+
+- `direct-marketing-analysis.xlsx` – Raw and cleaned data, pivot tables, EDA
+- `dashboard.png` – Snapshot of the Excel dashboard
+- `project-report.docx` – Concise documentation of methodology, insights, and recommendations
+- `README.md` – This file (project summary for GitHub)
+
+---
+
+## 👩🏽‍💻 Author
+
 **Bukunmi Adeeko**  
-Data Analyst Intern | InternPulse Program  
+_Data Analyst Intern | InternPulse Program_  
+[LinkedIn](https://www.linkedin.com/in/bukunmiadeeko/)
+
+---
+
+
