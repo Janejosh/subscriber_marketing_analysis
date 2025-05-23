@@ -16,14 +16,6 @@ I applied my Excel data analysis skills to clean, explore, and visualize the dat
 
 ---
 
-## 📊 Dashboard Snapshot
-
-Here’s a preview of the final dashboard summarizing subscription patterns by contact method, month, age bracket, education level, and more:
-
-![Dashboard Snapshot](bank-dashboard.png)
-
----
-
 ## ⚙️ Methodology
 
 1. **Data Cleaning:**
